@@ -264,9 +264,6 @@ with tf.device(worker_device):
             while not mon_sess.should_stop():
                 mon_sess.run(train_op)
 
-
-
-
 if is_chief:
     print('--- Begin Evaluation ---')
     # Reset graph and load it again to clean tensors placed in other devices
