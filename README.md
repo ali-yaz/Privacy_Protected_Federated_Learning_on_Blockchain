@@ -14,4 +14,4 @@ The repository containing the codes for federated convolutional neural network t
 
 **References** <br/>
 
-[1] Federated learning: Collaborative machine learning without  centralized  training  data,https://ai.googleblog.com/2017/04/federated-learning-collaborative.html, accessed:  2019-01-22.
+[1] Federated learning: Collaborative machine learning without  centralized  training data, https://ai.googleblog.com/2017/04/federated-learning-collaborative.html, accessed: 2019-01-22.
