@@ -5,6 +5,10 @@ Federated learning on blockchain is a modeling approach to learn collaboratively
 
 The repository containing the codes for federated convolutional neural network to detect the mode of transport from user's smartphone GPS trajectories. The federated learning allows to protect the privacy of the users while analyzing their GPS trajectories gathered by their smartphones. Figure1 demonstrates how the federated learning on blockchain works.
 
+![alt text](http://url/to/img.png)
 
-**References**
+
+
+**References** <br/>
+
 [1] Federated  learning:   Collaborative  machine  learning  without  centralized  training  data,https://ai.googleblog.com/2017/04/federated-learning-collaborative.html, accessed:  2019-01-22.
