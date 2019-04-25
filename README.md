@@ -7,7 +7,7 @@ The repository containing the codes for federated convolutional neural network t
 <br/>
 
 ![](https://github.com/Ali-TRIPLab/Privacy_Protected_Federated_Learning_on_Blockchain/blob/master/images/FL_Diagrams.jpg?raw=true)
-**Figure.1 Federated Learning implemented on Blockchain** <br/>
+$**Figure.1 Federated Learning implemented on Blockchain** <br/>
 
 
 
