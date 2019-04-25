@@ -1,5 +1,5 @@
 # Privacy Protected Federated Learning on Blockchain
-Federated learning convolution neural network (FL-CNN) to detect mode of transport from Itinerum GPS trajectories.
+The repos contains codes to implement privacy protected convolution neural network to detect mode of transport from Itinerum GPS trajectories.
 
 Federated learning on blockchain is a modeling approach to learn collaboratively a shared mode (of transport) inference model while the data is stored on different users' smartphones, each one is registered on a blockchain node (referred to as worker nodes). In such framework, a single shared model is trained locally on each node's data and the changes to the model are summarized and submitted to the master node of the blockchain[1]. Finally, the summarized updates from different nodes is transferred to the master node, and will be averaged to improve the single shared model[1].
 
